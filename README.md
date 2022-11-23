@@ -4,9 +4,15 @@ ATGL is a collection of state-of-the-art (SOTA), novel temporal graph learning m
 
 Any problems, please contact mengliuedu@163.com
 
-## What is the temporal graph?
+## What is temporal graphs?
 
-Temporal graph, also known as temporal network, is a special kind of graph data in dynamic graph. Here we give a brief introduction about temporal graphs.
+Temporal graphs, also known as temporal networks, are a special kind of graph/network data in dynamic graphs. Graph data can be divided into static graphs and dynamic graphs depending on whether they contain time information, and the dynamic graphs can also be divided into discrete graphs (also call static snapshot graphs) and temporal graphs.
+
+Static graphs mean that a graph is fixed where neither topological structure nor node attribute changes over time. In the early stage, researchers usually focus on the topological structure of the graph. They first obtain the adjacency matrix of the graph, then use random walk or matrix decomposition to learn node embeddings.
+
+Unlike static graphs, dynamic graphs mean that a graph contains dynamic changes that can help researchers learn the evolution of the graph structure and obtain more effective embeddings. In the early stages, researchers usually divide the network into several states based on the timestamps. The network state at each timestamp is called a static snapshot of the dynamic network. By comparing the differences between multiple static snapshots, researchers can learn the evolutionary patterns of the network over time.
+
+Since there are many interactions in the interval between two static snapshots, it is difficult to accurately represent network changes, researchers began focusing on learning node embeddings in temporal graphs with chronological interactive events.
 
 ## Paper
 
