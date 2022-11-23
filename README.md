@@ -15,7 +15,7 @@ Since there are many interactions in the interval between two static snapshots, 
 A temporal graph is similar to an interactive log. If nodes x and y interact at time t, we denote it as (x, y, t), and the temporal graph data is composed of these interactions, i.e., (x<sub>1</sub>, y<sub>1</sub>, t<sub>1</sub>), ..., (x<sub>n</sub>, y<sub>n</sub>, t<sub>n</sub>).
 
 <div  align="center">    
-    <img src="./figure/graph.png" width=70% />
+    <img src="./figure/graph.png" width=100% />
 </div>
 
 ## Paper
