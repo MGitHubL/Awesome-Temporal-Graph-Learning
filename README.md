@@ -4,13 +4,15 @@ ATGL is a collection of state-of-the-art (SOTA), novel temporal graph learning m
 
 ## What is temporal graphs?
 
-Temporal graphs, are a special kind of graph data in dynamic graphs. Graph data can be divided into static graphs and dynamic graphs depending on whether they contain time information, and the dynamic graphs can also be divided into discrete graphs (also call static snapshot graphs) and temporal graphs.
+Temporal graphs are a special kind of graph data in dynamic graphs. Graph data can be divided into static graphs and dynamic graphs depending on whether they contain time information.
 
-Static graphs mean that a graph is fixed where neither topological structure nor node attribute changes over time. Unlike static graphs, dynamic graphs mean that a graph contains dynamic changes that can help researchers learn the evolution of the graph structure and obtain more effective embeddings.
+Static graphs mean that a graph is fixed where neither topological structure nor node attribute changes over time. Unlike static graphs, dynamic graphs mean that a graph contains dynamic changes, which can be divided into discrete graphs (also call static snapshot graphs) and temporal graphs.
 
-In the early stages, researchers usually divide the network into several states based on the timestamps. The network state at each timestamp is called a discrete graph of the dynamic graphs. By comparing the differences between multiple static snapshots, researchers can learn the evolutionary patterns of the network over time.
+A discrete graph is a dynamic graph divided into a number of static snapshots at equal time intervals, and these static snapshots are ordered by time.
 
-Since there are many interactions in the interval between two static snapshots, it is difficult to accurately represent network changes, researchers began focusing on learning node embeddings in temporal graphs with chronological interactive events.
+Since there are many interactions in the interval between two static snapshots, it is difficult to accurately represent graph changes, researchers began focusing on learning node embeddings in temporal graphs with chronological interactive events.
+
+A temporal graph is similar to an interactive log. If nodes x and y interact at time t, we denote it as (x, y, t), and the temporal graph data is composed of these interactions, i.e., ($x_1$, y_1, t_1), ..., (x_n, y_n, t_n).
 
 ## Paper
 
