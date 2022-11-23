@@ -2,7 +2,7 @@
 
 ATGL is a collection of state-of-the-art (SOTA), novel temporal graph learning methods (papers, codes and datasets). Any other interesting papers and codes are welcome. Any problems, please contact mengliuedu@163.com. If you find this repository useful to your research or work, it is really appreciated to star this repository. ✨ If you use our code or the processed datasets in this repository for your research, please cite 1-2 papers in the citation part. ❤️
 
-## What is a temporal graph?
+## What is the temporal graph?
 
 Temporal graph, also known as temporal network, is a special kind of graph data in dynamic graph. Here we give a brief introduction about temporal graphs.
 
