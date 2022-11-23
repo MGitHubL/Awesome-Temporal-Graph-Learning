@@ -12,7 +12,7 @@ A discrete graph is a dynamic graph divided into a number of static snapshots at
 
 Since there are many interactions in the interval between two static snapshots, it is difficult to accurately represent graph changes, researchers began focusing on learning node embeddings in temporal graphs with chronological interactive events.
 
-A temporal graph is similar to an interactive log. If nodes x and y interact at time t, we denote it as (x, y, t), and the temporal graph data is composed of these interactions, i.e., ($x_1$, y_1, t_1), ..., (x_n, y_n, t_n).
+A temporal graph is similar to an interactive log. If nodes x and y interact at time t, we denote it as (x, y, t), and the temporal graph data is composed of these interactions, i.e., (x_1, y_1, t_1), ..., (x_n, y_n, t_n).
 
 ## Paper
 
