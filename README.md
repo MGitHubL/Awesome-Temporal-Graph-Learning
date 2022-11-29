@@ -22,8 +22,6 @@ A temporal graph is similar to an interactive log. If nodes x and y interact at 
 
 ### 2022
 
-* SAIL: Self Augmented Graph Contrastive Learning (**AAAI**) [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/20875)][[note](https://blog.csdn.net/CSDNTianJi/article/details/127030633?spm=1001.2014.3001.5501)]
-
 * TREND: TempoRal Event and Node Dynamics for Graph Representation Learning (**WWW**) [[paper](https://arxiv.org/pdf/2203.14303.pdf)][[code](https://github.com/WenZhihao666/TREND)][[note](https://blog.csdn.net/CSDNTianJi/article/details/126859612?spm=1001.2014.3001.5501)]
 
 * Pre-Training on Dynamic Graph Neural Networks (**Neurocomputing**) [[paper](https://arxiv.org/pdf/2102.12380.pdf)][[note](https://blog.csdn.net/CSDNTianJi/article/details/120711689)]
