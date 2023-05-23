@@ -67,6 +67,13 @@ A temporal graph is similar to an interactive log. If nodes x and y interact at 
 ## Cite us
 
 ```bibtex
+@article{TGC_ML,
+  title={Deep Temporal Graph Clustering},
+  author={Liu, Meng and Liu, Yue and Liang, Ke and Wang, Siwei and Zhou, Sihang and Liu, Xinwang},
+  journal={arXiv preprint arXiv:2305.10738},
+  year={2023}
+}
+
 @inproceedings{liumeng2021inductive,
   title={Inductive representation learning in temporal networks via mining neighborhood and community influences},
   author={Liu, Meng and Liu, Yong},
