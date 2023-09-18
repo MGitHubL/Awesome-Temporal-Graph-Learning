@@ -28,6 +28,8 @@ A temporal graph is similar to an interactive log. If nodes x and y interact at 
 
 ### 2021
 
+* Continuous-Time Sequential Recommendation with Temporal Graph Collaborative Transformer (**CIKM**) [[paper](https://arxiv.org/pdf/2108.06625)][[code](https://github.com/DyGRec/TGSRec)][[note](https://blog.csdn.net/CSDNTianJi/article/details/132993073?spm=1001.2014.3001.5501)]
+
 * Inductive Representation Learning in Temporal Networks via Causal Anonymous Walks (**ICLR**) [[paper](https://arxiv.org/pdf/2101.05974.pdf)][[code](https://github.com/snap-stanford/CAW)][[note](https://blog.csdn.net/CSDNTianJi/article/details/114488437)]
 
 ### 2020
