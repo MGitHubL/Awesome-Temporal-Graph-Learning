@@ -28,6 +28,8 @@ A temporal graph is similar to an interactive log. If nodes x and y interact at 
 
 * TREND: TempoRal Event and Node Dynamics for Graph Representation Learning (**WWW**) [[paper](https://arxiv.org/pdf/2203.14303.pdf)][[code](https://github.com/WenZhihao666/TREND)][[note](https://blog.csdn.net/CSDNTianJi/article/details/126859612?spm=1001.2014.3001.5501)]
 
+* Embedding Global and Local Influences for Dynamic Graphs (**CIKM Short**)
+
 * Pre-Training on Dynamic Graph Neural Networks (**Neurocomputing**) [[paper](https://arxiv.org/pdf/2102.12380.pdf)][[note](https://blog.csdn.net/CSDNTianJi/article/details/120711689)]
 
 ### 2021
@@ -36,6 +38,7 @@ A temporal graph is similar to an interactive log. If nodes x and y interact at 
 
 * Inductive Representation Learning in Temporal Networks via Causal Anonymous Walks (**ICLR**) [[paper](https://arxiv.org/pdf/2101.05974.pdf)][[code](https://github.com/snap-stanford/CAW)][[note](https://blog.csdn.net/CSDNTianJi/article/details/114488437)]
 
+* Inductive Representation Learning in Temporal Networks via Mining Neighborhood and Community Influences (**SIGIR Short**) [[paper](https://arxiv.org/abs/2110.00267)][[code](https://github.com/MGitHubL/MNCI)]
 ### 2020
 
 * Temporal Graph Networks for Deep Learning on Dynamic Graphs (**ICML Workshop**) [[paper](https://arxiv.org/abs/2006.10637)][[code](https://github.com/twitter-research/tgn)][[note](https://blog.csdn.net/CSDNTianJi/article/details/127846239?spm=1001.2014.3001.5501)]
