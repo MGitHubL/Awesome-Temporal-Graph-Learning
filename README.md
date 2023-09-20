@@ -41,6 +41,8 @@ A temporal graph is similar to an interactive log. If nodes x and y interact at 
 
 * Inductive Representation Learning in Temporal Networks via Causal Anonymous Walks (**ICLR**) [[paper](https://arxiv.org/pdf/2101.05974.pdf)][[code](https://github.com/snap-stanford/CAW)][[note](https://blog.csdn.net/CSDNTianJi/article/details/114488437)]
 
+* Embedding Temporal Networks Inductively via Mining Neighborhood and Community Influences (**Applied Intelligence**)
+
 * Inductive Representation Learning in Temporal Networks via Mining Neighborhood and Community Influences (**SIGIR Short**) [[paper](https://arxiv.org/abs/2110.00267)][[code](https://github.com/MGitHubL/MNCI)]
 ### 2020
 
