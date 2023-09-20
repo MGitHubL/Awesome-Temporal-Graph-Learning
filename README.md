@@ -23,6 +23,9 @@ A temporal graph is similar to an interactive log. If nodes x and y interact at 
 ### 2023
 
 * TMac: Temporal Multi-Modal Graph Learning for Acoustic Event Classification (**ACM MM**) [[code](https://github.com/MGitHubL/TMac)]
+
+* Less Can Be More: Unsupervised Graph Pruning for Large-scale Dynamic Graphs (**arXiv**) [[paper](https://arxiv.org/pdf/2305.10673)][[code](https://github.com/EdisonLeeeee/STEP)][[note](https://blog.csdn.net/CSDNTianJi/article/details/132855957?spm=1001.2014.3001.5501)]
+
   
 ### 2022
 
