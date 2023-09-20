@@ -18,6 +18,10 @@ A temporal graph is similar to an interactive log. If nodes x and y interact at 
     <img src="./assets/graph.png" width=100% />
 </div>
 
+## Survey
+
+* Community discovery in dynamic networks: a survey (**ACM computing surveys**) [[paper](https://arxiv.org/pdf/1707.03186)]
+
 ## Paper
 
 ### 2023
