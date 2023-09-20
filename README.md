@@ -20,6 +20,10 @@ A temporal graph is similar to an interactive log. If nodes x and y interact at 
 
 ## Paper
 
+### 2023
+
+* TMac: Temporal Multi-Modal Graph Learning for Acoustic Event Classification (**ACM MM**) [[paper]( )][[code](https://github.com/MGitHubL/TMac)]
+  
 ### 2022
 
 * TREND: TempoRal Event and Node Dynamics for Graph Representation Learning (**WWW**) [[paper](https://arxiv.org/pdf/2203.14303.pdf)][[code](https://github.com/WenZhihao666/TREND)][[note](https://blog.csdn.net/CSDNTianJi/article/details/126859612?spm=1001.2014.3001.5501)]
@@ -61,9 +65,6 @@ A temporal graph is similar to an interactive log. If nodes x and y interact at 
 * Continuous-Time Dynamic Network Embeddings (**WWW**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3184558.3191526)][[code](https://github.com/Shubhranshu-Shekhar/ctdne)][[note](https://blog.csdn.net/CSDNTianJi/article/details/100830263)]
 
 * Embedding Temporal Network via Neighborhood Formation (**KDD**) [[paper](http://www.shichuan.org/hin/topic/Embedding/2018.KDD%202018%20Embedding%20Temporal%20Network%20via%20Neighborhood%20Formation.pdf)][[note](https://blog.csdn.net/CSDNTianJi/article/details/101921040)]
-
-* Learning dynamic embeddings from temporal interactions (**arXiv**) [[paper](https://arxiv.org/pdf/1812.02289.pdf)][[note](https://blog.csdn.net/CSDNTianJi/article/details/104859498)]
-
 
 
 ## Cite us
