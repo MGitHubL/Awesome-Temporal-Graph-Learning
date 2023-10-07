@@ -33,6 +33,8 @@ A temporal graph is similar to an interactive log. If nodes x and y interact at 
   
 ### 2022
 
+* Neighborhood-aware Scalable Temporal Network Representation Learning (**LOG**) [[paper](https://proceedings.mlr.press/v198/luo22a/luo22a.pdf)][[code](https://github.com/Graph-COM/Neighborhood-Aware-Temporal-Network)][note](https://blog.csdn.net/CSDNTianJi/article/details/133634640?spm=1001.2014.3001.5501)]
+
 * TREND: TempoRal Event and Node Dynamics for Graph Representation Learning (**WWW**) [[paper](https://arxiv.org/pdf/2203.14303.pdf)][[code](https://github.com/WenZhihao666/TREND)][[note](https://blog.csdn.net/CSDNTianJi/article/details/126859612?spm=1001.2014.3001.5501)]
 
 * Embedding Global and Local Influences for Dynamic Graphs (**CIKM Short**)
@@ -57,8 +59,6 @@ A temporal graph is similar to an interactive log. If nodes x and y interact at 
 * DySAT: Deep Neural Representation Learning on Dynamic Graphs via Self-Attention Networks (**WSDM**) [[paper](http://yhwu.me/publications/dysat_wsdm20.pdf)][[code](https://github.com/aravindsankar28/DySAT)][[note](https://blog.csdn.net/CSDNTianJi/article/details/109530388)]
 
 * Continuous-Time Dynamic Graph Learning via Neural Interaction Processes (**CIKM**) [[note](https://blog.csdn.net/CSDNTianJi/article/details/116721279)]
-
-
 
 ### 2019
 
