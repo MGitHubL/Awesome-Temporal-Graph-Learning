@@ -30,6 +30,10 @@ A temporal graph is similar to an interactive log. If nodes x and y interact at 
 
 * Less Can Be More: Unsupervised Graph Pruning for Large-scale Dynamic Graphs (**arXiv**) [[paper](https://arxiv.org/pdf/2305.10673)][[code](https://github.com/EdisonLeeeee/STEP)][[note](https://blog.csdn.net/CSDNTianJi/article/details/132855957?spm=1001.2014.3001.5501)]
 
+* Generating fine-grained surrogate temporal networks (**arXiv**) [[paper](https://arxiv.org/abs/2205.08820)]
+
+* Graph Neural Networks for temporal graphs: State of the art, open challenges, and opportunities (**TMLR**) [[paper](https://openreview.net/pdf?id=pHCdMat0gI)]
+
   
 ### 2022
 
@@ -38,6 +42,8 @@ A temporal graph is similar to an interactive log. If nodes x and y interact at 
 * TREND: TempoRal Event and Node Dynamics for Graph Representation Learning (**WWW**) [[paper](https://arxiv.org/pdf/2203.14303.pdf)][[code](https://github.com/WenZhihao666/TREND)][[note](https://blog.csdn.net/CSDNTianJi/article/details/126859612?spm=1001.2014.3001.5501)]
 
 * Embedding Global and Local Influences for Dynamic Graphs (**CIKM Short**)
+
+* An efficient procedure for mining egocentric temporal motifs (**DMKD**) [[paper](https://link.springer.com/article/10.1007/s10618-021-00803-2)]
 
 * Pre-Training on Dynamic Graph Neural Networks (**Neurocomputing**) [[paper](https://arxiv.org/pdf/2102.12380.pdf)][[note](https://blog.csdn.net/CSDNTianJi/article/details/120711689)]
 
