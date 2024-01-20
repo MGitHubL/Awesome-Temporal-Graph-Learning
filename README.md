@@ -24,9 +24,13 @@ A temporal graph is similar to an interactive log. If nodes x and y interact at 
 
 ## Paper
 
+### 2024
+
+* Deep Temporal Graph Clustering (**ACM MM**) [[paper](https://arxiv.org/abs/2305.10738)][[code](https://github.com/MGitHubL/TGC)]
+
 ### 2023
 
-* TMac: Temporal Multi-Modal Graph Learning for Acoustic Event Classification (**ACM MM**) [[code](https://github.com/MGitHubL/TMac)]
+* TMac: Temporal Multi-Modal Graph Learning for Acoustic Event Classification (**ACM MM**) [[paper](https://arxiv.org/abs/2309.11845)][[code](https://github.com/MGitHubL/TMac)]
 
 * Less Can Be More: Unsupervised Graph Pruning for Large-scale Dynamic Graphs (**arXiv**) [[paper](https://arxiv.org/pdf/2305.10673)][[code](https://github.com/EdisonLeeeee/STEP)][[note](https://blog.csdn.net/CSDNTianJi/article/details/132855957?spm=1001.2014.3001.5501)]
 
@@ -88,18 +92,17 @@ A temporal graph is similar to an interactive log. If nodes x and y interact at 
 ## Cite us
 
 ```bibtex
-@article{TGC_ML,
+@inproceedings{TGC_ML_ICLR,
   title={Deep Temporal Graph Clustering},
-  author={Liu, Meng and Liu, Yue and Liang, Ke and Wang, Siwei and Zhou, Sihang and Liu, Xinwang},
-  journal={arXiv preprint arXiv:2305.10738},
-  year={2023}
+  author={Liu, Meng and Liu, Yue and Liang, Ke and Tu, Wenxuan and Wang, Siwei and Zhou, Sihang and Liu, Xinwang},
+  booktitle={The 12th International Conference on Learning Representations},
+  year={2024}
 }
 
-@inproceedings{liumeng2021inductive,
-  title={Inductive representation learning in temporal networks via mining neighborhood and community influences},
-  author={Liu, Meng and Liu, Yong},
-  booktitle={Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval},
-  pages={2202--2206},
-  year={2021}
+@article{S2T_ML,
+  title={Self-Supervised Temporal Graph Learning with Temporal and Structural Intensity Alignment},
+  author={Liu, Meng and Liang, Ke and Zhao, Yawei and Tu, Wenxuan and Zhou, Sihang and Liu, Xinwang and He Kunlun},
+  journal={arXiv preprint arXiv:2302.07491},
+  year={2023}
 }
 ```
