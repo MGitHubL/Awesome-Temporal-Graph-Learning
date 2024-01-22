@@ -26,7 +26,7 @@ A temporal graph is similar to an interactive log. If nodes x and y interact at 
 
 ### 2024
 
-* Deep Temporal Graph Clustering (**ACM MM**) [[paper](https://arxiv.org/abs/2305.10738)][[code](https://github.com/MGitHubL/TGC)]
+* Deep Temporal Graph Clustering (**ICLR**) [[paper](https://arxiv.org/abs/2305.10738)][[code](https://github.com/MGitHubL/TGC)]
 
 ### 2023
 
