@@ -34,6 +34,8 @@ A temporal graph is similar to an interactive log. If nodes x and y interact at 
 
 ### 2023
 
+* Decoupled graph neural networks for large dynamic graphs (**VLDB**) [[paper](https://www.vldb.org/pvldb/vol16/p2239-zheng.pdf)][[code](https://github.com/zheng-yp/DecoupledDGNN)]
+
 * Dynamic Graph Evolution Learning for Recommendation (**SIGIR**) [[paper](https://dl.acm.org/doi/abs/10.1145/3539618.3591674)][[code](https://github.com/henrictang/DGEL)]
 
 * Towards Better Dynamic Graph Learning: New Architecture and Unified Library (**NeurIPS**) [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/d611019afba70d547bd595e8a4158f55-Paper-Conference.pdf)][[code](https://github.com/yule-BUAA/DyGLib)]
