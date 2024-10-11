@@ -4,7 +4,7 @@ ATGL is a collection of state-of-the-art (SOTA), novel temporal graph learning m
 
 ## What is temporal graph?
 
-Temporal graphs are a special kind of graph data in dynamic graphs. Graph data can be divided into static graphs and dynamic graphs depending on whether they contain time information.
+Temporal graph is a special kind of graph data in dynamic graphs. Graph data can be divided into static graphs and dynamic graphs depending on whether they contain time information.
 
 Static graphs mean that a graph is fixed where neither topological structure nor node attribute changes over time. Unlike static graphs, dynamic graphs mean that a graph contains dynamic changes, which can be divided into **discrete** graphs (also call static snapshot graphs) and **temporal** graphs.
 
@@ -30,6 +30,8 @@ A temporal graph is similar to an interactive log. If nodes x and y interact at 
 
 ### 2023
 
+* Dynamic Graph Evolution Learning for Recommendation (**SIGIR**) [[paper](https://dl.acm.org/doi/abs/10.1145/3539618.3591674)][[code](https://github.com/henrictang/DGEL)]
+
 * Towards Better Dynamic Graph Learning: New Architecture and Unified Library (**NeurIPS**) [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/d611019afba70d547bd595e8a4158f55-Paper-Conference.pdf)][[code](https://github.com/yule-BUAA/DyGLib)]
 
 * TMac: Temporal Multi-Modal Graph Learning for Acoustic Event Classification (**ACM MM**) [[paper](https://arxiv.org/abs/2309.11845)][[code](https://github.com/MGitHubL/TMac)]
@@ -43,7 +45,9 @@ A temporal graph is similar to an interactive log. If nodes x and y interact at 
   
 ### 2022
 
-* Neighborhood-aware Scalable Temporal Network Representation Learning (**LOG**) [[paper](https://proceedings.mlr.press/v198/luo22a/luo22a.pdf)][[code](https://github.com/Graph-COM/Neighborhood-Aware-Temporal-Network)][note](https://blog.csdn.net/CSDNTianJi/article/details/133634640?spm=1001.2014.3001.5501)]
+* Dynamic Graph Neural Networks for Sequential Recommendation (**TKDE**) [[paper](https://ieeexplore.ieee.org/abstract/document/9714053)][[code](https://github.com/CRIPAC-DIG/DGSR)]
+
+* Neighborhood-aware Scalable Temporal Network Representation Learning (**LOG Best Paper**) [[paper](https://proceedings.mlr.press/v198/luo22a/luo22a.pdf)][[code](https://github.com/Graph-COM/Neighborhood-Aware-Temporal-Network)][note](https://blog.csdn.net/CSDNTianJi/article/details/133634640?spm=1001.2014.3001.5501)]
 
 * TREND: TempoRal Event and Node Dynamics for Graph Representation Learning (**WWW**) [[paper](https://arxiv.org/pdf/2203.14303.pdf)][[code](https://github.com/WenZhihao666/TREND)][[note](https://blog.csdn.net/CSDNTianJi/article/details/126859612?spm=1001.2014.3001.5501)]
 
