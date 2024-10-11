@@ -28,7 +28,7 @@ A temporal graph is similar to an interactive log. If nodes x and y interact at 
 
 * Deep Temporal Graph Clustering (**ICLR**) [[paper](https://arxiv.org/abs/2305.10738)][[code](https://github.com/MGitHubL/TGC)]
 
-* Self-Supervised Temporal Graph Learning with Temporal and Structural Intensity Alignment (**TNNLS**) [[paper](https://arxiv.org/abs/2302.07491)]
+* Self-Supervised Temporal Graph Learning with Temporal and Structural Intensity Alignment (**TNNLS**) [[paper](https://arxiv.org/abs/2302.07491)][[code](https://github.com/MGitHubL/S2T)]
 
 * DTGB: A Comprehensive Benchmark for Dynamic Text-Attributed Graphs (**NeurIPS**) [[paper](https://arxiv.org/pdf/2406.12072)][[code](https://github.com/zjs123/DTGB)]
 
