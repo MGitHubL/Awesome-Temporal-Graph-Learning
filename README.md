@@ -20,6 +20,9 @@ A temporal graph is similar to an interactive log. If nodes x and y interact at 
 
 ## Survey
 
+
+* A Survey on Temporal Interaction Graph Representation Learning: Progress, Challenges, and Opportunities (**arXiv**) [[paper](https://arxiv.org/abs/2505.04461)]
+  
 * Community discovery in dynamic networks: a survey (**ACM computing surveys**) [[paper](https://arxiv.org/pdf/1707.03186)]
 
 ## Paper
