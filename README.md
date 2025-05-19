@@ -53,6 +53,8 @@ A temporal graph is similar to an interactive log. If nodes x and y interact at 
   
 ### 2022
 
+* A Self-supervised Riemannian GNN with Time Varying Curvature for Temporal Graph Learning (**CIKM**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3511808.3557222)]
+
 * Dynamic Graph Neural Networks for Sequential Recommendation (**TKDE**) [[paper](https://ieeexplore.ieee.org/abstract/document/9714053)][[code](https://github.com/CRIPAC-DIG/DGSR)]
 
 * Neighborhood-aware Scalable Temporal Network Representation Learning (**LOG Best Paper**) [[paper](https://proceedings.mlr.press/v198/luo22a/luo22a.pdf)][[code](https://github.com/Graph-COM/Neighborhood-Aware-Temporal-Network)][note](https://blog.csdn.net/CSDNTianJi/article/details/133634640?spm=1001.2014.3001.5501)]
