@@ -22,6 +22,8 @@ A temporal graph is similar to an interactive log. If nodes x and y interact at 
 
 
 * A Survey on Temporal Interaction Graph Representation Learning: Progress, Challenges, and Opportunities (**arXiv**) [[paper](https://arxiv.org/abs/2505.04461)]
+
+* Graph Neural Networks for temporal graphs: State of the art, open challenges, and opportunities (**TMLR**) [[paper](https://openreview.net/pdf?id=pHCdMat0gI)]
   
 * Community discovery in dynamic networks: a survey (**ACM computing surveys**) [[paper](https://arxiv.org/pdf/1707.03186)]
 
@@ -50,8 +52,6 @@ A temporal graph is similar to an interactive log. If nodes x and y interact at 
 * Less Can Be More: Unsupervised Graph Pruning for Large-scale Dynamic Graphs (**arXiv**) [[paper](https://arxiv.org/pdf/2305.10673)][[code](https://github.com/EdisonLeeeee/STEP)][[note](https://blog.csdn.net/CSDNTianJi/article/details/132855957?spm=1001.2014.3001.5501)]
 
 * Generating fine-grained surrogate temporal networks (**arXiv**) [[paper](https://arxiv.org/abs/2205.08820)]
-
-* Graph Neural Networks for temporal graphs: State of the art, open challenges, and opportunities (**TMLR**) [[paper](https://openreview.net/pdf?id=pHCdMat0gI)]
 
   
 ### 2022
