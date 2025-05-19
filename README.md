@@ -34,6 +34,8 @@ A temporal graph is similar to an interactive log. If nodes x and y interact at 
 
 ### 2023
 
+* Orca: Scalable temporal graph neural network training with theoretical guarantees (**SIGMOD**) [[paper](https://dl.acm.org/doi/abs/10.1145/3588737)][[code](https://github.com/LuckyLYM/Orca)]
+
 * Decoupled graph neural networks for large dynamic graphs (**VLDB**) [[paper](https://www.vldb.org/pvldb/vol16/p2239-zheng.pdf)][[code](https://github.com/zheng-yp/DecoupledDGNN)]
 
 * Dynamic Graph Evolution Learning for Recommendation (**SIGIR**) [[paper](https://dl.acm.org/doi/abs/10.1145/3539618.3591674)][[code](https://github.com/henrictang/DGEL)]
